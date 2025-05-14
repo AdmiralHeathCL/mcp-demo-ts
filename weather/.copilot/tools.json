@@ -1,0 +1,6 @@
+{
+  "weather": {
+    "entry": "node build/index.js",
+    "stdio": true
+  }
+}
